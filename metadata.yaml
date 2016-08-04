@@ -1,0 +1,33 @@
+_repo: Strictly-Business--More-Stories-of-the-Four-Million_2141
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Strictly business -- The gold that glittered -- Babes in the jungle
+  -- The day resurgent -- The fifth wheel -- The poet and the peasant -- The robe
+  of peace -- The girl and the graft -- The call of the tame -- The unknown quantity
+  -- The thing's the play -- A ramble in Aphasia -- A municipal report -- Psyche and
+  the pskyscraper -- A bird of Bagdad -- Compliments of the season -- A night in new
+  Arabia -- The girl and the habit -- Proof of the pudding -- Past one at Rooney's
+  -- The venturers -- The duel -- "What you want."
+title: 'Strictly Business: More Stories of the Four Million'
+url: http://www.gutenberg.org/ebooks/2141
